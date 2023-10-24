@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/learningOcaml/META"
+  "_build/install/default/lib/learningOcaml/dune-package"
+  "_build/install/default/lib/learningOcaml/opam"
+]
+bin: [
+  "_build/install/default/bin/learningOcaml"
+]
